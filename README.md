@@ -107,7 +107,7 @@ By the end of this process, the code will write the weights of the best model to
 
 It carries out detection on the image and write the image with detected bounding boxes to the same folder.
 
-检测使用使用摄像头采集到的视频
+检测使用摄像头采集的视频流
 
 `python predict.py -c config.json -i webcam` 
 
